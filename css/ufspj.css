@@ -39,6 +39,7 @@ header img {
 
 nav {
     border-top: 22px solid rgb(9,28,54);
+    outline-color: #0000FF; 
 }
 
 nav ul {
